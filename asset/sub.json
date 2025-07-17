@@ -1,1 +1,111 @@
+{
+    "sub1": {
+        "io": "beranda",
+        "en": "home"
+    },
+    "sub2": {
+        "io": "proyek",
+        "en": "project"
+    },
+    "sub3": {
+        "io": "keahlian",
+        "en": "skil"
+    },
+    "sub4": {
+        "io": "kontak",
+        "en": "contact"
+    },
+    "sub5": {
+        "io": "Hallo Dunia",
+        "en": "Hello Word"
+    },
+    "sub6": {
+        "io": "saya seorang programmer",
+        "en": "I am a programmer"
+    },
+    "sub7": {
+        "io": "Tentang Saya",
+        "en": "About Me"
+    },
+    "sub8": {
+        "io": "Saya adalah seorang pelajar yang tertarik di dunia pemrograman dan pengembangan game. Saat ini, saya aktif belajar membuat website, mendesain antarmuka, dan mengembangkan game sederhana secara mandiri.",
+        "en": "I am a student who is interested in the world of programming and game development. Currently, I am actively learning to build websites, design interfaces, and develop simple games independently."
+    },
+    "sub9": {
+        "io": "Saya terbiasa menggunakan HTML, CSS, JavaScript, dan beberapa tools lain seperti Godot dan Canva. Bagi saya, membuat sesuatu dari nol dan melihatnya berjalan dengan baik adalah hal yang menyenangkan dan memotivasi.",
+        "en": "I am familiar with using HTML, CSS, JavaScript, and several other tools such as Godot and Canva. For me, creating something from scratch and seeing it work well is both enjoyable and motivating."
+    },
+    "sub10": {
+        "io": "Saya percaya bahwa kemampuan bisa berkembang lewat konsistensi dan rasa ingin tahu. Karena itu, saya terus belajar dan mencoba hal-hal baru di bidang teknologi.",
+        "en": "I believe that skills can grow through consistency and curiosity. That's why I keep learning and exploring new things in the field of technology."
+    },
+    "sub11": {
+        "io": "Lanjut Via Whatsapp",
+        "en": "Chat on WhatsApp"
+    },
+    "sub12": {
+        "io": "DevConnect – Platform Terintegrasi Android & Web",
+        "en": "DevConnect – An Integrated Android & Web Platform"
+    },
+    "sub13": {
+        "io": "DevConnect adalah proyek kolaboratif yang menggabungkan pengembangan aplikasi mobile (Android) dan web dalam satu ekosistem. Tujuan utama dari proyek ini adalah menciptakan aplikasi yang responsif, interaktif, dan dapat berjalan di berbagai perangkat dengan pengalaman pengguna yang optimal.",
+        "en": "DevConnect is a collaborative project that combines mobile (Android) and web development into a single ecosystem. The main goal of this project is to create responsive, interactive applications that work seamlessly across various devices while providing an optimal user experience."
+    },
+    "sub14": {
+        "io": "Fitur Web",
+        "en": "Website Capabilities"
+    },
+    "sub15": {
+        "io": "Frontend dibangun dengan HTML, CSS, dan JavaScript untuk antarmuka yang modern dan dinamis.Backend menggunakan PHP dan MySQL untuk mengelola data pengguna, autentikasi, dan sistem notifikasi. Sistem manajemen akun dan dashboard interaktif yang terhubung dengan versi mobile.",
+        "en": "The frontend is built using HTML, CSS, and JavaScript to deliver a modern and dynamic user interface. The backend uses PHP and MySQL to handle user data, authentication, and notification systems. It features an account management system and an interactive dashboard integrated with the mobile version."
+    },
+    "sub16": {
+        "io": "Fitur Android",
+        "en": "Mobile App Features"
+    },
+    "sub17": {
+        "io": "Dibuat menggunakan Java (atau Kotlin, opsional) di Android Studio. Tersinkronisasi penuh dengan database web. Tampilan native dengan navigasi yang smooth dan ringan. Fitur login/register, chat, dan notifikasi real-time.",
+        "en": "Built using Java (or optionally Kotlin) in Android Studio. Fully synchronized with the web database. Features a native interface with smooth and lightweight navigation. Includes login/register functionality, real-time chat, and notifications."
+    },
+    "sub18": {
+        "io": "Teknologi Yang Digunakan",
+        "en": "Technologies Used"
+    },
+    "sub19": {
+        "io": "HTML, CSS, JavaScript (JS) untuk tampilan dan interaktivitas web. Java untuk pengembangan Android. PHP & MySQL untuk backend server. C++ digunakan di sisi Android untuk kebutuhan performa (opsional/untuk modul tertentu seperti enkripsi atau AI ringan). API untuk komunikasi antara Android dan Web.",
+        "en": "HTML, CSS, and JavaScript (JS) for web interface and interactivity. Java for Android development. PHP & MySQL for the backend server. C++ used on the Android side for performance-critical tasks (optional/for specific modules like encryption or lightweight AI). APIs for communication between Android and Web platforms."
+    },
+    "sub20": {
+        "io": "Tujuan Proyek",
+        "en": "Project Objectives"
+    },
+    "sub21": {
+        "io": "Mendemonstrasikan kemampuan dalam: Membangun sistem terintegrasi antara aplikasi Android dan Website. Menerapkan konsep full-stack development. Mengelola komunikasi data antara frontend dan backend dengan aman dan efisien.",
+        "en": "The goal of this project is to demonstrate the ability to build an integrated system between Android and web platforms, apply full-stack development principles, and manage data communication between frontend and backend in a secure and efficient way."
+    },
+    "sub22": {
+        "io": "Keahlian",
+        "en": "Skils"
+    },
 
+    "sub23": {
+        "io": "Hubungi Kami",
+        "en": "Get in Touch"
+    },
+    "sub24": {
+        "io": "Dukungan",
+        "en": "Support Us"
+    },
+    "sub25": {
+        "io": "Terima kasih telah melihat portofolio saya. Jika Anda tertarik bekerja sama atau sekadar ingin berbicara, jangan ragu untuk",
+        "en": "Thank you for viewing my portfolio. If you're interested in collaborating or simply want to chat, feel free to."
+    },
+    "sub26": {
+        "io": "menghubungi saya",
+        "en": "contact me"
+    },
+    "sub27": {
+        "io": "Tidak perlu sempurna untuk mulai, tapi kamu harus mulai untuk menjadi luar biasa.",
+        "en": "You don’t have to be perfect to start, but you have to start to become extraordinary."
+    }
+}
