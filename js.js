@@ -1,7 +1,7 @@
 setTimeout(function() {
     document.body.classList.toggle("y");
     document.getElementById("system").style.display = "grid";
-}, 3000);
+}, 5000);
 window.addEventListener('scroll', function () {
     document.body.classList.toggle('k', window.scrollY > 0);
 });
