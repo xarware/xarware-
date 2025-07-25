@@ -1,0 +1,59 @@
+
+/* === DIGA === */
+@font-face {
+    font-family: 'Slimamif';
+    src: url('asset/font/Slimamif.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Slimamif';
+    src: url('asset/font/SlimamifBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Slimamif';
+    src: url('asset/font/SlimamifMedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+/* === LT HUMOR === */
+@font-face {
+    font-family: 'LTHumor';
+    src: url('asset/font/LTHumor.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LTHumor';
+    src: url('asset/font/LTHumor-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LTHumor';
+    src: url('asset/font/LTHumor-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* === WINKY SANS (WOFF2) === */
+@font-face {
+    font-family: 'WinkySans';
+    src: url('asset/font/WinkySans.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'WinkySans';
+    src: url('asset/font/WinkySans-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'WinkySans';
+    src: url('asset/font/WinkySans-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
